@@ -1,1 +1,1 @@
-alert("guhh")
+alert("riki")
